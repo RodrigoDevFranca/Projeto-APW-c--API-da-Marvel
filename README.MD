@@ -7,5 +7,8 @@ A pretenção é apresentar alguns personagens da Marvel e criadores.
 ## Tecnologia
 HTML, CSS, JavaScript
 
+## Objetivo
+consumir API para mostrar imagens dos personagens, criadores.
+
 ### Autor
 Rodrigo de França Lucena
